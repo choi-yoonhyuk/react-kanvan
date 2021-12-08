@@ -36,7 +36,7 @@ function CreateBoard() {
   const [toDos, setToDos] = useRecoilState(toDoState);
   const { register, setValue, handleSubmit } = useForm();
   const onValid = ({ board }: IAddBoard) => {
-    console.log(board);
+    
     const newBoard = { [board]: [] };
     console.log(newBoard);
     setToDos((allboard) => {
