@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/kanvan/static/js/main.892750d0.chunk.js",
+    "main.js.map": "/kanvan/static/js/main.892750d0.chunk.js.map",
+    "runtime-main.js": "/kanvan/static/js/runtime-main.82a8a091.js",
+    "runtime-main.js.map": "/kanvan/static/js/runtime-main.82a8a091.js.map",
+    "static/js/2.e5153aa1.chunk.js": "/kanvan/static/js/2.e5153aa1.chunk.js",
+    "static/js/2.e5153aa1.chunk.js.map": "/kanvan/static/js/2.e5153aa1.chunk.js.map",
+    "index.html": "/kanvan/index.html",
+    "static/js/2.e5153aa1.chunk.js.LICENSE.txt": "/kanvan/static/js/2.e5153aa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82a8a091.js",
+    "static/js/2.e5153aa1.chunk.js",
+    "static/js/main.892750d0.chunk.js"
+  ]
+}
